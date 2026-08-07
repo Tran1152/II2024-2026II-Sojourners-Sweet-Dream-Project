@@ -1,6 +1,16 @@
 ![Banner](Banner.png)
 # Sojourner's Sweet Dream
-#### Sojourner's Sweet Dream is an unofficial, non-profit international fanzine project coordinated from concept to publication.
+#### Sojourner's Sweet Dream is an unofficial, non-profit international fanzine project coordinated from concept to publication.  
+</br>
+
+<div align="center">
+✦一一一一一一一✦✦✦一一一一一一一✦
+</div>  
+
+![INFO]([EN] SALE INFO 1.png)  
+![INFO2]([EN] SALE INFO 2.png)  
+![INFO3]([EN] SALE INFO 3.png)  
+![INFO4]([EN] SALE INFO 4.png)  
 
 ## Project Timeline
 <div align="center">
