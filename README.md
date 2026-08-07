@@ -7,10 +7,13 @@
 ✦一一一一一一一✦✦✦一一一一一一一✦
 </div>  
 
-![INFO]([EN] SALE INFO 1.png)  
-![INFO2]([EN] SALE INFO 2.png)  
-![INFO3]([EN] SALE INFO 3.png)  
-![INFO4]([EN] SALE INFO 4.png)  
+<p align="center">
+  <img src="./Project%20Information/ProjectInfo.png" width="70%">
+</p>
+
+<p align="center">
+  <img src="./Project%20Information/ProjectLineup.png" width="70%">
+</p>
 
 ## Project Timeline
 <div align="center">
