@@ -7,10 +7,18 @@
 ✦一一一一一一一✦✦✦一一一一一一一✦
 </div>  
 
-![INFO](SALEINFO1.png)  
-![INFO2](SALEINFO2.png)  
-![INFO3](SALEINFO3.png)  
-![INFO4](SALEINFO4.png)  
+<p align="center">
+  <img src="./Project%20Information/SALEINFO1.png" width="70%">
+</p>
+
+<p align="center">
+  <img src="./Project%20Information/SALEINFO2.png" width="70%">
+</p>
+
+<p align="center">
+  <img src="./Project%20Information/SALEINFO3.png" width="70%">
+</p>
+
 
 ## Project Timeline
 <div align="center">
