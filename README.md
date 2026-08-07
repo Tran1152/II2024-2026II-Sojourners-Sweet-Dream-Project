@@ -1,4 +1,4 @@
-![Financial Summary](Banner.png)
+![Banner](Banner.png)
 # Sojourner's Sweet Dream
 Sojourner's Sweet Dream is an unofficial, non-profit international fanzine project coordinated from concept to publication.
 
