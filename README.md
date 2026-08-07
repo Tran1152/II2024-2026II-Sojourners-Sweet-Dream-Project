@@ -7,14 +7,6 @@
 ✦一一一一一一一✦✦✦一一一一一一一✦
 </div>  
 
-<p align="center">
-  <img src="./Project%20Information/ProjectInfo.png" width="70%">
-</p>
-
-<p align="center">
-  <img src="./Project%20Information/ProjectLineup.png" width="70%">
-</p>
-
 ## Project Timeline
 <div align="center">
 
