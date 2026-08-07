@@ -1,5 +1,12 @@
+![Financial Summary](Banner.png)
 # Sojourner's Sweet Dream
 Sojourner's Sweet Dream is an unofficial, non-profit international fanzine project coordinated from concept to publication.
+
+## Project Links
+[**Project Website**](https://sojournerssweetdream.carrd.co/#home)
+[**Project Information Document**](https://docs.google.com/document/d/1WvnGXarFZab79XZfbKDWdlJh4Kzi4DlcMLsDqzMUTKk/edit?usp=sharing)
+[**Facebook**](https://www.facebook.com/sojournerssweetdream)
+[**X (Twitter)**](https://x.com/Sojrnersweetdrm)
 
 ## Project Timeline
 | **EVENT** | **TIMELINE** |
