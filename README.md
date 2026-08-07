@@ -7,10 +7,10 @@
 ✦一一一一一一一✦✦✦一一一一一一一✦
 </div>  
 
-![INFO]([EN] SALE INFO 1.png)  
-![INFO2]([EN] SALE INFO 2.png)  
-![INFO3]([EN] SALE INFO 3.png)  
-![INFO4]([EN] SALE INFO 4.png)  
+![INFO](SALEINFO1.png)  
+![INFO2](SALEINFO2.png)  
+![INFO3](SALEINFO3.png)  
+![INFO4](SALEINFO4.png)  
 
 ## Project Timeline
 <div align="center">
