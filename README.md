@@ -8,17 +8,12 @@
 </div>  
 
 <p align="center">
-  <img src="./Project%20Information/SALEINFO1.png" width="70%">
+  <img src="./Project%20Information/ProjectInfo.png" width="70%">
 </p>
 
 <p align="center">
-  <img src="./Project%20Information/SALEINFO2.png" width="70%">
+  <img src="./Project%20Information/ProjectLineup.png" width="70%">
 </p>
-
-<p align="center">
-  <img src="./Project%20Information/SALEINFO3.png" width="70%">
-</p>
-
 
 ## Project Timeline
 <div align="center">
