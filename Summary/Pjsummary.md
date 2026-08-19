@@ -116,8 +116,5 @@
 </div>
 
 
-## ✦ Project Links  
-[**Project Website**](https://sojournerssweetdream.carrd.co/#home) · 
-[**Project Information Document**](https://docs.google.com/document/d/1WvnGXarFZab79XZfbKDWdlJh4Kzi4DlcMLsDqzMUTKk/edit?usp=sharing) · 
-[**Facebook**](https://www.facebook.com/sojournerssweetdream) · 
-[**X (Twitter)**](https://x.com/Sojrnersweetdrm)  
+## ✦ Revenue & Expense Summary
+[**Google Sheet Link**](https://docs.google.com/spreadsheets/d/12SubI9Eq_scHcEMYg8HcjRG4eVV8Xt7QoU6oP_M-TQQ/edit?usp=sharing) · 
