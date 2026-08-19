@@ -1,4 +1,15 @@
-## Product & Set Information
+
+## Zine Info 
+**Title:** Sojourner’s Sweet Dream  
+**Language:** English  
+**Page Count:** 128 pages  
+**Size:** B5  
+
+Sales Rounds:
+Round 1: February 1 – April 1, 2025  
+Round 2: September 20 – September 30, 2025  
+
+### Product & Set Information
 
 | Set | Fanbook | Bookmark | Card | Standee | Griptok | Polaroid | Keychain | Artprint (1) | Artprint (2) | Badge |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
