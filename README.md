@@ -7,7 +7,7 @@
 ✦一一一一一一一✦✦✦一一一一一一一✦
 </div>  
 
-## Project Timeline
+## ✦ Project Timeline
 <div align="center">
 
 <strong>Operating Time: March 2024 – March 2026 (UTC−4)</strong>
@@ -73,7 +73,7 @@
 
 </div>
 
-## Project Team
+## ✦ Project Team
 #### ✦ Project Moderators ✦
 
 <div align="center">
