@@ -89,29 +89,29 @@
 
 <div align="center">
 
-**ABWI** · *Comic Artist; Merch Artist*　</br>
+**ABWI** · *Comic Artist & Merch Artist*　</br>
 **Bế Đô (Yip)** · *Merch Artist*　</br>
-**Bon** · *Page Artist; Merch Artist*　</br>
+**Bon** · *Page Artist & Merch Artist*　</br>
 **Chiki** · *Page Artist*　</br>
-**DDDDaoB** · *Page Artist; Merch Artist*　</br>
+**DDDDaoB** · *Page Artist & Merch Artist*　</br>
 **Dyi Hil** · *Page Artist*　</br>
-**ESZ** · *Cover Artist; Merch Artist*　</br>
-**Fau** · *Page Artist; Merch Artist*　</br>
+**ESZ** · *Cover Artist & Merch Artist*　</br>
+**Fau** · *Page Artist & Merch Artist*　</br>
 **Flemniscate** · *Page Artist*　</br>
 **Hanze** · *Page Artist*　</br>
-**Kaga** · *Page Artist; Merch Artist*　</br>
+**Kaga** · *Page Artist & Merch Artist*　</br>
 **Limao** · *Comic Artist*　</br>
-**Liya** · *Comic Artist; Merch Artist*　</br>
+**Liya** · *Comic Artist & Merch Artist*　</br>
 **Mây Trắng** · *Page Artist*　</br>
-**Mouyiyiyi** · *Page Artist; Merch Artist*　</br>
+**Mouyiyiyi** · *Page Artist & Merch Artist*　</br>
 **Namtan** · *Page Artist*　</br>
-**Ria** · *Page Artist; Merch Artist*　</br>
+**Ria** · *Page Artist & Merch Artist*　</br>
 **Seimaru** · *Page Artist*　</br>
 **Shirotama** · *Page Artist*　</br>
 **Star** · *Page Artist*　</br>
 **Tofu** · *Comic Artist*　</br>
 **Xiantuanmao** · *Page Artist*　</br>
-**Xiong** · *Page Artist; Comic Artist*
+**Xiong** · *Page Artist & Comic Artist*
 
 </div>
 
