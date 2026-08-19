@@ -1,18 +1,18 @@
 ## Product & Set Information
 
-| Set | Products Included |
-|:---|:---|
-| **SET A** | Fanbook, Bookmark, Card, Standee 15, Griptok, Polaroid, Keychain, Artprint (1), Badge |
-| **SET B** | Fanbook, Bookmark, Card, Griptok, Polaroid, Artprint |
-| **SET C** | Fanbook, Bookmark, Polaroid, Keychain, Artprint |
-| **SET D** | Fanbook, Bookmark, Card, Keychain |
-| **SET E** | Fanbook, Bookmark |
+| Set | Fanbook | Bookmark | Card | Standee | Griptok | Polaroid | Keychain | Artprint (1) | Artprint (2) | Badge |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **SET A** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  | ✓ |
+| **SET B** | ✓ | ✓ | ✓ |  | ✓ | ✓ |  | ✓ |  |  |
+| **SET C** | ✓ | ✓ |  |  |  | ✓ | ✓ | ✓ |  |  |
+| **SET D** | ✓ | ✓ | ✓ |  |  |  | ✓ |  |  |  |
+| **SET E** | ✓ | ✓ |  |  |  |  |  |  |  |  |
 
 ### Product Information
 
 | Product | Factory | Size | Type | Effect |
 |:---|:---|:---|:---|:---|
-| Fanbook | Thành Đạt | B5 – 128 Page | C350 (Soft cover) – C150 | Gold foil [Maybe] |
+| Fanbook | Thành Đạt | B5 – 128 Page | C350 (Soft cover) – C150 | Gold foil |
 | Bookmark | Nguyễn Ân | 5 × 15 cm | C300 | Glitter |
 | Card | Nguyễn Ân | 6 × 9 cm | C400 Paper | Holo |
 | Keychain | Dreamy | 5 cm | Double Board | Holo |
