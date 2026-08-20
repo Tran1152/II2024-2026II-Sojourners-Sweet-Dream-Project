@@ -4,6 +4,9 @@ Sojourner's Sweet Dream is an international fanzine project featuring contributi
 
 <div align="center">
   <strong>Project Duration</strong> : Mar 2024 – Mar 2026<br>
+  <strong>Products</strong> : 10<br>
+  <strong>Total Revenue</strong> : 160,990,022 VND<br>
+  <strong>Profit</strong> : 35,826,090 VND
 </div>
 
 
