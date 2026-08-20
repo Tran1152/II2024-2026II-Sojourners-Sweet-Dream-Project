@@ -1,4 +1,4 @@
-
+![Banner](Banner2.png)
 ## Zine Info 
 **Title:** Sojourner’s Sweet Dream  
 **Language:** English  
