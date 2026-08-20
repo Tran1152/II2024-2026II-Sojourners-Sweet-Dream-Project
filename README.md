@@ -115,9 +115,13 @@
 
 </div>
 
-
 ## ✦ Project Links  
 [**Project Website**](https://sojournerssweetdream.carrd.co/#home) · 
 [**Project Information Document**](https://docs.google.com/document/d/1WvnGXarFZab79XZfbKDWdlJh4Kzi4DlcMLsDqzMUTKk/edit?usp=sharing) · 
 [**Facebook**](https://www.facebook.com/sojournerssweetdream) · 
 [**X (Twitter)**](https://x.com/Sojrnersweetdrm)  
+
+## ✦ About this repository
+This repository serves as a public reference and portfolio archive for Sojourner's Sweet Dream. It contains selected information about the project, including customer feedback, products, revenue, quantities sold, and project timelines.  
+  
+For additional information about the project or potential collaboration, please contact:  sojournerssweetdream@gmail.com  
