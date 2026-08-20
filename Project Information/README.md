@@ -1,4 +1,12 @@
 ![Banner](Banner2.png)
+## ✦ Project Overview
+Sojourner's Sweet Dream is an international fanzine project featuring contributions from artists across multiple countries.
+
+<div align="center">
+  <strong>Project Duration</strong> : Mar 2024 – Mar 2026<br>
+</div>
+
+
 ## Zine Info 
 **Title:** Sojourner’s Sweet Dream  
 **Language:** English  
